@@ -1,4 +1,8 @@
 pcl_exercise
 ============
 
-Example codes using PCL
+Personal example codes using PCL.
+
+## License
+Creative commons CC0
+http://creativecommons.org/publicdomain/zero/1.0/
